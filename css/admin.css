@@ -1,0 +1,178 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper
+{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.clearfix
+{
+    float: none;
+    clear: both;
+}
+
+.tbl-full
+{
+    width: 100%;
+}
+
+table tr th
+{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td
+{
+    padding: 1%;
+}
+
+.tbl-40
+{
+    width: 40%;
+}
+
+.btn-add
+{
+    background-color: #00d2d3; 
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-add:hover
+{
+    background-color: #32ff7e
+}
+
+.btn-add
+{
+    background-color: #00d2d3; 
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-add:hover
+{
+    background-color: #0abde3;
+}
+
+.btn-sussces
+{
+    background-color: #32ff7e; 
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-sussces:hover
+{
+    background-color: #3ae374;
+}
+
+.btn-danger
+{
+    background-color: #ff5e57; 
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-danger:hover
+{
+    background-color: #ff3f34;
+    
+}
+
+.sussces
+{
+    color: #4cd137;
+}
+
+.error
+{
+    color: #ff7675;
+}
+/* CSS for Menu */
+
+.menu
+{
+    border-bottom: 1px solid grey;
+}
+
+.menu ul
+{
+    list-style-type: none;
+}
+
+.menu ul li
+{
+    display: inline;
+    padding: 1%;
+}
+
+.menu ul li a
+{
+    text-decoration: none;
+    color: #ff7979;
+    font-weight: bold;
+}
+
+.menu ul li a:hover
+{
+    color: #eb4d4b;
+    border-bottom: 2px solid rgb(2, 253, 241);
+}
+
+/* CSS for Main */
+.main-content
+{
+    background-color: #eeeeee;
+    padding: 3% 0;
+}
+
+.col-4  
+{
+    width: 18%;
+    background-color: #ffffff;
+    padding: 2%;
+    margin: 1%;
+    float: left;
+}
+
+/* CSS for Footer */
+.footer
+{
+    background-color: #ff7979;
+    color:white;
+}
+
+/* CSS for Login */
+
+.login
+{
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+    background-color: #2f3640;
+    color: white;
+}
